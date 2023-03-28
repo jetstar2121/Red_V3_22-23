@@ -1,0 +1,10 @@
+@ECHO OFF
+
+ECHO Hello World! this is an example of a batch file. futrue Thomas here is what you have to do
+ECHO to start type echo off in caps
+ECHO then write your things with cap echo
+ECHO then write cap pause 
+
+START https://www.tutorialspoint.com/batch_script/batch_script_commands.htm
+
+PAUSE 
